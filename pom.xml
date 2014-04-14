@@ -4,7 +4,7 @@
 
 	<groupId>com.github.t1</groupId>
 	<artifactId>jms-browser</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>JMS Browser</name>
@@ -16,7 +16,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/t1/jms-browser</developerConnection>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
         <repository>
